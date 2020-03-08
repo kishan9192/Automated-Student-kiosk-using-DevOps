@@ -9,12 +9,17 @@ START cmd:
 npm run dev
 
 # Modules : 
-<b>1.</b> Login
+<b>1. Login </b>
 ![Login Deployed](https://github.com/kishan9192/Automated-Student-kiosk-using-DevOps/blob/master/Images/Deployed%201.png)
 
-<b>2.</b> Attendance
-<b>3.</b> Time-Table
-<b>4.</b> Support
+<b>2. Attendance </b>
+![Attendance Module Deployed](https://github.com/kishan9192/Automated-Student-kiosk-using-DevOps/blob/master/Images/attendance%20module.jpg)
+
+<b>3. Time-Table</b>
+![Time-Table Deployed](https://github.com/kishan9192/Automated-Student-kiosk-using-DevOps/blob/master/Images/time-table%20module.jpg)
+
+<b>4. Support</b>
+![Support Module Deployed](https://github.com/kishan9192/Automated-Student-kiosk-using-DevOps/blob/master/Images/support%20module.jpg)
 
 The application is deployed at "http://jiitweb.herokuapp.com/"
 
@@ -28,6 +33,8 @@ The modules that were written, are tested by writing the test scripts in Java, a
 
 <b> 3. Deploy </b>
 Once all the changes are built and tested, they are deployed at "jiitweb.herokuapp.com" 
+
+![Jenkins-Pipeline](https://github.com/kishan9192/Automated-Student-kiosk-using-DevOps/blob/master/Images/Jenkins%20pipeline.png)
 
 All of the above process takes 5-10 mins, once the changes are pushed and committed in the master branch.
 
