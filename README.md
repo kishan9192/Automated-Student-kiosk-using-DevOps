@@ -34,7 +34,8 @@ The modules that were written, are tested by writing the test scripts in Java, a
 <b> 3. Deploy </b>
 Once all the changes are built and tested, they are deployed at "jiitweb.herokuapp.com" 
 
-![Jenkins-Pipeline](https://github.com/kishan9192/Automated-Student-kiosk-using-DevOps/blob/master/Images/Jenkins%20pipeline.png)
+![Jenkins-Pipeline](https://github.com/kishan9192/Automated-Student-kiosk-using-DevOps/blob/master/Images/Jenkins%20pipeline2.png)
+
 
 All of the above process takes 5-10 mins, once the changes are pushed and committed in the master branch.
 
