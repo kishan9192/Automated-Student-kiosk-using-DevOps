@@ -10,6 +10,8 @@ npm run dev
 
 # Modules : 
 <b>1.</b> Login
+![]https://github.com/kishan9192/Automated-Student-kiosk-using-DevOps/blob/master/Images/Deployed%201.png
+
 <b>2.</b> Attendance
 <b>3.</b> Time-Table
 <b>4.</b> Support
